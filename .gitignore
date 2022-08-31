@@ -1,0 +1,24 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Пenerated files
+bin/**
+gen/**
+
+# Project based files
+.idea/
+.gradle/
+build/
+bin/
+out/
+.gradletasknamecache
+*.iml
+*.ipr
+*.iws
+
+# Project
+files*
+db/*.db
+scripts/*
+!scripts/*.py
